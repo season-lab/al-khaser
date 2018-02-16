@@ -5,7 +5,7 @@ int main(void)
 {
 
 	/* Resize the console window for better visibility */
-	resize_console_window();
+	//resize_console_window(); // KTM
 
 	/* Display general informations */
 	_tprintf(_T("[al-khaser version 0.72]"));
